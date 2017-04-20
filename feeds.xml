@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feeds>
+	<feed>
+		<title>Arts and Life</title>
+		<link>http://www.npr.org/rss/rss.php?id=1008</link>
+	</feed>
+	<feed>
+		<title>International Arts</title>
+		<link>http://www.nytimes.com/services/xml/rss/nyt/InternationalArts.xml</link>
+	</feed>
+	<feed>
+		<title>Arts Beat</title>
+		<link>http://artsbeat.blogs.nytimes.com/feed/</link>
+	</feed>
+	<feed>
+		<title>Carpet Bager</title>
+		<link>http://carpetbagger.blogs.nytimes.com/feed/</link>
+	</feed>
+	<feed>
+		<title>Runway</title>
+		<link>http://runway.blogs.nytimes.com/feed/</link>
+	</feed>
+	<feed>
+		<title>Books</title>
+		<link>http://www.npr.org/rss/rss.php?id=1032</link>
+	</feed>
+	<feed>
+		<title>Authors</title>
+		<link>http://www.npr.org/rss/rss.php?id=1033</link>
+	</feed>
+	<feed>
+		<title>New Old Age</title>
+		<link>http://newoldage.blogs.nytimes.com/feed/</link>
+	</feed>
+	<feed>
+		<title>Performing Arts</title>
+		<link>http://www.npr.org/rss/rss.php?id=1047'</link>
+	</feed>
+	<feed>
+		<title>Jazzz</title>
+		<link>http://www.npr.org/rss/rss.php?id=10002</link>
+	</feed>
+</feeds>
